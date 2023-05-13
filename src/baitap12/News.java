@@ -65,9 +65,7 @@ public class News {
         return AverageRate;
     }
 
-    public void setAverageRate(float averageRate) {
-        AverageRate = averageRate;
-    }
+
 
     public void Display() {
         System.out.println("Tiêu đề: " + Title);
