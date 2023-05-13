@@ -3,7 +3,7 @@ package baitap12;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class News {
+public class News implements INews{
     int ID;
     String Title;
     String PublishDate;
